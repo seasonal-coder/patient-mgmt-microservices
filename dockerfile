@@ -1,5 +1,5 @@
 # Use an officialgit  OpenJDK image as the base
-FROM openjdk:17-jdk-slim
+FROM openjdk:22-jdk-slim
 
 WORKDIR /app
 
